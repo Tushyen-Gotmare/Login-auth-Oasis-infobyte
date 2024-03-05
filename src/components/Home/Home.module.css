@@ -1,0 +1,23 @@
+
+
+.container{
+    width: 100%;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    background: linear-gradient(to right, #f7fb00, #82CD47);
+}
+.UserName{
+   font-size: 15px;
+   margin-left: 20px;
+   color: rgb(45, 29, 2);
+   font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+}
+.city{
+   margin-right: 20px;
+   width: 90px;
+   border-radius: 30px;
+}
